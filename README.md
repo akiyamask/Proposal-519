@@ -21,7 +21,6 @@ Some simple components may be required like LEDs, transistors, resistors, suppli
 
 Of course the questions are inevitable but not yet, thus pending.
 
-别搞了我求你了（Do not lie down just cheer up please）
 
 
 
